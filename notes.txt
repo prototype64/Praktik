@@ -1,0 +1,13 @@
+Man kan vælge et brugernavn
+Leaderboard der viser top brugernavne
+
+
+TECH STACK
+
+Frontend
+    HTML
+    CSS
+    JS
+
+Backend
+    Python/NodeJS
